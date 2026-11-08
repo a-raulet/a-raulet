@@ -15,7 +15,7 @@ Data scientist based in Tokyo, working in French, English and Japanese.
 ## Currently
 
 - Going deeper into reinforcement learning for pricing: contextual bandits and Q-learning.
-- Writing an article: TODO(arnaud): working title and expected date.
+- Writing an article (soon).
 
 ## Links
 
