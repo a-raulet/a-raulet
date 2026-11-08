@@ -20,4 +20,4 @@ Data scientist based in Tokyo, working in French, English and Japanese.
 ## Links
 
 - Website: [arnaudraulet.com](https://arnaudraulet.com)
-- LinkedIn: TODO(arnaud): LinkedIn URL
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/arnaud-raulet-13308310/)
